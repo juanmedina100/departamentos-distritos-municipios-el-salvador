@@ -5,99 +5,30 @@
         "municipios": [
           {
             "nombre": "Ahuachapán Norte",
-            "distritos": ["Atiquizaya", "El Refugio", "San Lorenzo", "Turín"]
+            "distritos": [
+              {"nombre": "Atiquizaya"},
+              {"nombre": "El Refugio"},
+              {"nombre": "San Lorenzo"},
+              {"nombre": "Turín"}
+            ]
           },
           {
             "nombre": "Ahuachapán Centro",
-            "distritos": ["Ahuachapán", "Apaneca", "Concepción de Ataco", "Tacuba"]
+            "distritos": [
+              {"nombre": "Ahuachapán"},
+              {"nombre": "Apaneca"},
+              {"nombre": "Concepción de Ataco"},
+              {"nombre": "Tacuba"}
+            ]
           },
           {
             "nombre": "Ahuachapán Sur",
-            "distritos": ["Guaymango", "Jujutla", "San Francisco Menendez", "San Pedro Puxtla"]
-          }
-        ]
-      },
-      {
-        "nombre": "San Salvador",
-        "municipios": [
-          {
-            "nombre": "San Salvador Norte",
-            "distritos": ["Aguilares", "El Paisnal", "Guazapa"]
-          },
-          {
-            "nombre": "San Salvador Oeste",
-            "distritos": ["Apopa", "Nejapa"]
-          },
-          {
-            "nombre": "San Salvador Este",
-            "distritos": ["llopango", "San Martín", "Soyapango", "Tonacatepeque"]
-          },
-          {
-            "nombre": "San Salvador Centro",
-            "distritos": ["Ayutuxtepeque", "Mejicanos", "San Salvador", "Cuscatancingo", "Ciudad Delgado"]
-          },
-          {
-            "nombre": "San Salvador Sur",
-            "distritos": ["Panchimalco", "Rosario de Mora", "San Marcos", "Santo Tomás", "Santiago Texacuangos"]
-          }
-        ]
-      },
-      {
-        "nombre": "La Libertad",
-        "municipios": [
-          {
-            "nombre": "La Libertad Norte",
-            "distritos": ["Quezaltepeque", "San Matías", "San Pablo Tacachico"]
-          },
-          {
-            "nombre": "La Libertad Centro",
-            "distritos": ["San Juan Opico", "Ciudad Arce"]
-          },
-          {
-            "nombre": "La Libertad Oeste",
-            "distritos": ["Colón", "Jayaque", "Sacacoyo", "Tepecoyo", "Talnique"]
-          },
-          {
-            "nombre": "La Libertad Este",
-            "distritos": ["Antiguo Cuscatlán", "Huizucar", "Nuevo Cuscatlán", "San José Villanueva", "Zaragoza"]
-          },
-          {
-            "nombre": "La Libertad Costa",
-            "distritos": ["Chiltuipán", "Jicalapa", "La Libertad", "Tamanique", "Teotepeque"]
-          },
-          {
-            "nombre": "La Libertad Sur",
-            "distritos": ["Comasagua", "Santa Tecla"]
-          }
-        ]
-      },
-      {
-        "nombre": "Chalatenango",
-        "municipios": [
-          {
-            "nombre": "Chalatenango Norte",
-            "distritos": ["La Palma", "Citalá", "San Ignacio"]
-          },
-          {
-            "nombre": "Chalatenango Centro",
-            "distritos": ["Nueva Concepción", "Tejutla", "La Reina", "Agua Caliente", "Dulce Nombre de María", "El Paraíso", "San Francisco Morazán", "San Rafael", "Santa Rita", "San Fernando"]
-          },
-          {
-            "nombre": "Chalatenango Sur",
-            "distritos": ["Chalatenango", "Arcatao", "Azacualpa", "Comalapa", "Concepción Quezaltepeque", "El Carrizal", "La Laguna", "Las Vueltas", "Nombre de Jesús", "Nueva Trinidad", "Ojos de Agua", "Potonico", "San Antonio de La Cruz", "San Antonio Los Ranchos", "San Francisco Lempa", "San Isidro Labrador", "San José Cancasque", "San Luis del Carmen"]
-          }
-        ]
-      },
-      {
-        "nombre": "Cuscatlán",
-        "municipios": [
-          {
-            "nombre": "Cuscatlán Norte",
-            "distritos": ["Suchitoto", "San José Guayabal", "Oratorio de Concepción", "San Bartolomé Perulapán", "San Pedro Perulapán"]
-          },
-          {
-            "nombre": "Cuscatlán Sur",
-            "distritos": ["Cojutepeque", "San Rafael Cedros", "Candelaria", "Monte San Juan", "El Carmen", "San Cristóbal", "Santa Cruz Michapa", "San Ramón", "El Rosario", "Santa Cruz Analquito", "Tenancingo"]
+            "distritos": [
+              {"nombre": "Guaymango"},
+              {"nombre": "Jujutla"},
+              {"nombre": "San Francisco Menendez"},
+              {"nombre": "San Pedro Puxtla"}
+            ]
           }
         ]
       },
@@ -106,11 +37,163 @@
         "municipios": [
           {
             "nombre": "Cabañas Este",
-            "distritos": ["Sensuntepeque", "Victoria", "Dolores", "Guacotecti", "San Isidro"]
+            "distritos": [
+              {"nombre": "Sensuntepeque"},
+              {"nombre": "Victoria"},
+              {"nombre": "Dolores"},
+              {"nombre": "Guacotecti"},
+              {"nombre": "San Isidro"}
+            ]
           },
           {
             "nombre": "Cabañas Oeste",
-            "distritos": ["llobasco", "Tejutepeque", "Jutiapa", "Cinquera"]
+            "distritos": [
+              {"nombre": "Ilobasco"},
+              {"nombre": "Tejutepeque"},
+              {"nombre": "Jutiapa"},
+              {"nombre": "Cinquera"}
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Chalatenango",
+        "municipios": [
+          {
+            "nombre": "Chalatenango Norte",
+            "distritos": [
+              {"nombre": "La Palma"},
+              {"nombre": "Citalá"},
+              {"nombre": "San Ignacio"}
+            ]
+          },
+          {
+            "nombre": "Chalatenango Centro",
+            "distritos": [
+              {"nombre": "Nueva Concepción"},
+              {"nombre": "Tejutla"},
+              {"nombre": "La Reina"},
+              {"nombre": "Agua Caliente"},
+              {"nombre": "Dulce Nombre de María"},
+              {"nombre": "El Paraíso"},
+              {"nombre": "San Francisco Morazán"},
+              {"nombre": "San Rafael"},
+              {"nombre": "Santa Rita"},
+              {"nombre": "San Fernando"}
+            ]
+          },
+          {
+            "nombre": "Chalatenango Sur",
+            "distritos": [
+              {"nombre": "Chalatenango"},
+              {"nombre": "Arcatao"},
+              {"nombre": "Azacualpa"},
+              {"nombre": "Comalapa"},
+              {"nombre": "Concepción Quezaltepeque"},
+              {"nombre": "El Carrizal"},
+              {"nombre": "La Laguna"},
+              {"nombre": "Las Vueltas"},
+              {"nombre": "Nombre de Jesús"},
+              {"nombre": "Nueva Trinidad"},
+              {"nombre": "Ojos de Agua"},
+              {"nombre": "Potonico"},
+              {"nombre": "San Antonio de La Cruz"},
+              {"nombre": "San Antonio Los Ranchos"},
+              {"nombre": "San Francisco Lempa"},
+              {"nombre": "San Isidro Labrador"},
+              {"nombre": "San José Cancasque"},
+              {"nombre": "San Miguel de Mercedes"},
+              {"nombre": "San José Las Flores"},
+              {"nombre": "San Luis del Carmen"}
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Cuscatlán",
+        "municipios": [
+          {
+            "nombre": "Cuscatlán Norte",
+            "distritos": [
+              {"nombre": "Suchitoto"},
+              {"nombre": "San José Guayabal"},
+              {"nombre": "Oratorio de Concepción"},
+              {"nombre": "San Bartolomé Perulapán"},
+              {"nombre": "San Pedro Perulapán"}
+            ]
+          },
+          {
+            "nombre": "Cuscatlán Sur",
+            "distritos": [
+              {"nombre": "Cojutepeque"},
+              {"nombre": "San Rafael Cedros"},
+              {"nombre": "Candelaria"},
+              {"nombre": "Monte San Juan"},
+              {"nombre": "El Carmen"},
+              {"nombre": "San Cristóbal"},
+              {"nombre": "Santa Cruz Michapa"},
+              {"nombre": "San Ramón"},
+              {"nombre": "El Rosario"},
+              {"nombre": "Santa Cruz Analquito"},
+              {"nombre": "Tenancingo"}
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "La Libertad",
+        "municipios": [
+          {
+            "nombre": "La Libertad Norte",
+            "distritos": [
+              {"nombre": "Quezaltepeque"},
+              {"nombre": "San Matías"},
+              {"nombre": "San Pablo Tacachico"}
+            ]
+          },
+          {
+            "nombre": "La Libertad Centro",
+            "distritos": [
+              {"nombre": "San Juan Opico"},
+              {"nombre": "Ciudad Arce"}
+            ]
+          },
+          {
+            "nombre": "La Libertad Oeste",
+            "distritos": [
+              {"nombre": "Colón"},
+              {"nombre": "Jayaque"},
+              {"nombre": "Sacacoyo"},
+              {"nombre": "Tepecoyo"},
+              {"nombre": "Talnique"}
+            ]
+          },
+          {
+            "nombre": "La Libertad Este",
+            "distritos": [
+              {"nombre": "Antiguo Cuscatlán"},
+              {"nombre": "Huizúcar"},
+              {"nombre": "Nuevo Cuscatlán"},
+              {"nombre": "San José Villanueva"},
+              {"nombre": "Zaragoza"}
+            ]
+          },
+          {
+            "nombre": "La Libertad Costa",
+            "distritos": [
+              {"nombre": "Chiltuipán"},
+              {"nombre": "Jicalapa"},
+              {"nombre": "La Libertad"},
+              {"nombre": "Tamanique"},
+              {"nombre": "Teotepeque"}
+            ]
+          },
+          {
+            "nombre": "La Libertad Sur",
+            "distritos": [
+              {"nombre": "Comasagua"},
+              {"nombre": "Santa Tecla"}
+            ]
           }
         ]
       },
@@ -119,15 +202,40 @@
         "municipios": [
           {
             "nombre": "La Paz Oeste",
-            "distritos": ["Cuyultitán", "Olocuilta", "San Juan Talpa", "San Luis Talpa", "San Pedro Masahuat", "Tapalhuaca", "San Francisco Chinameca"]
+            "distritos": [
+              {"nombre": "Cuyultitán"},
+              {"nombre": "Olocuilta"},
+              {"nombre": "San Juan Talpa"},
+              {"nombre": "San Luis Talpa"},
+              {"nombre": "San Pedro Masahuat"},
+              {"nombre": "Tapalhuaca"},
+              {"nombre": "San Francisco Chinameca"}
+            ]
           },
           {
             "nombre": "La Paz Centro",
-            "distritos": ["El Rosario", "Jerusalén", "Mercedes La Ceiba", "Paraíso de Osorio", "San Antonio Masahuat", "San Emigdio", "San Juan Tepezontes", "San Luis La Herradura", "San Miguel Tepezontes", "San Pedro Nonualco", "Santa María Ostuma", "Santiago Nonualco"]
+            "distritos": [
+              {"nombre": "El Rosario"},
+              {"nombre": "Jerusalén"},
+              {"nombre": "Mercedes La Ceiba"},
+              {"nombre": "Paraíso de Osorio"},
+              {"nombre": "San Antonio Masahuat"},
+              {"nombre": "San Emigdio"},
+              {"nombre": "San Juan Tepezontes"},
+              {"nombre": "San Luis La Herradura"},
+              {"nombre": "San Miguel Tepezontes"},
+              {"nombre": "San Pedro Nonualco"},
+              {"nombre": "Santa María Ostuma"},
+              {"nombre": "Santiago Nonualco"}
+            ]
           },
           {
             "nombre": "La Paz Este",
-            "distritos": ["San Juan Nonualco", "San Rafael Obrajuelo", "Zacatecoluca"]
+            "distritos": [
+              {"nombre": "San Juan Nonualco"},
+              {"nombre": "San Rafael Obrajuelo"},
+              {"nombre": "Zacatecoluca"}
+            ]
           }
         ]
       },
@@ -136,100 +244,31 @@
         "municipios": [
           {
             "nombre": "La Unión Norte",
-            "distritos": ["Anamorós", "Bolivar", "Concepción de Oriente", "El Sauce", "Lislique", "Nueva Esparta", "Pasaquina", "Polorós", "San José La Fuente", "Santa Rosa de Lima"]
+            "distritos": [
+              {"nombre": "Anamorós"},
+              {"nombre": "Bolivar"},
+              {"nombre": "Concepción de Oriente"},
+              {"nombre": "El Sauce"},
+              {"nombre": "Lislique"},
+              {"nombre": "Nueva Esparta"},
+              {"nombre": "Pasaquina"},
+              {"nombre": "Polorós"},
+              {"nombre": "San José La Fuente"},
+              {"nombre": "Santa Rosa de Lima"}
+            ]
           },
           {
             "nombre": "La Unión Sur",
-            "distritos": ["Conchagua", "El Carmen", "lntipucá", "La Unión", "Meanguera del Golfo", "San Alejo", "Yayantique", "Yucuaiquín"]
-          }
-        ]
-      },
-      {
-        "nombre": "Usulután",
-        "municipios": [
-          {
-            "nombre": "Usulután Norte",
-            "distritos": ["Santiago de María", "Alegría", "Berlín", "Mercedes Umana", "Jucuapa", "El Triunfo", "Estanzuelas", "San Buenaventura", "Nueva Granada"]
-          },
-          {
-            "nombre": "Usulután Este",
-            "distritos": ["Usulután", "Jucuarán", "San Dionisio", "Concepción Batres", "Santa María", "Ozatlán", "Tecapán", "Santa Elena", "California", "Ereguayquín"]
-          },
-          {
-            "nombre": "Usulután Oeste",
-            "distritos": ["Jiquilisco", "Puerto El Triunfo", "San Agustín", "San Francisco Javier"]
-          }
-        ]
-      },
-      {
-        "nombre": "Sonsonate",
-        "municipios": [
-          {
-            "nombre": "Sonsonate Norte",
-            "distritos": ["Juayúa", "Nahuizalco", "Salcoatitán", "Santa Catarina Masahuat"]
-          },
-          {
-            "nombre": "Sonsonate Centro",
-            "distritos": ["Sonsonate", "Sonzacate", "Nahulingo", "San Antonio del Monte", "Santo Domingo de Guzmán"]
-          },
-          {
-            "nombre": "Sonsonate Este",
-            "distritos": ["Izalco", "Armenia", "Caluco", "San Julián", "Cuisnahuat", "Santa Isabel Ishuatán"]
-          },
-          {
-            "nombre": "Sonsonate Oeste",
-            "distritos": ["Acajutla"]
-          }
-        ]
-      },
-      {
-        "nombre": "Santa Ana",
-        "municipios": [
-          {
-            "nombre": "Santa Ana Norte",
-            "distritos": ["Masahuat", "Metapán", "Santa Rosa Guachipilín", "Texistepeque"]
-          },
-          {
-            "nombre": "Santa Ana Centro",
-            "distritos": ["Santa Ana"]
-          },
-          {
-            "nombre": "Santa Ana Este",
-            "distritos": ["Coatepeque", "El Congo"]
-          },
-          {
-            "nombre": "Santa Ana Oeste",
-            "distritos": ["Candelaria de la Frontera", "Chalchuapa", "El Porvenir", "San Antonio Pajonal", "San Sebastián Salitrillo", "Santiago de La Frontera"]
-          }
-        ]
-      },
-      {
-        "nombre": "San Vicente",
-        "municipios": [
-          {
-            "nombre": "San Vicente Norte",
-            "distritos": ["Apastepeque", "Santa Clara", "San Ildefonso", "San Esteban Catarina", "San Sebastián", "San Lorenzo", "Santo Domingo"]
-          },
-          {
-            "nombre": "San Vicente Sur",
-            "distritos": ["San Vicente", "Guadalupe", "Verapaz", "Tepetitán", "Tecoluca", "San Cayetano Istepeque"]
-          }
-        ]
-      },
-      {
-        "nombre": "San Miguel",
-        "municipios": [
-          {
-            "nombre": "San Miguel Norte",
-            "distritos": ["Ciudad Barrios", "Sesori", "Nuevo Edén de San Juan", "San Gerardo", "San Luis de La Reina", "Carolina", "San Antonio del Mosco", "Chapeltique"]
-          },
-          {
-            "nombre": "San Miguel Centro",
-            "distritos": ["San Miguel", "Comacarán", "Uluazapa", "Moncagua", "Quelepa", "Chirilagua"]
-          },
-          {
-            "nombre": "San Miguel Oeste",
-            "distritos": ["Chinameca", "Nueva Guadalupe", "Lolotique", "San Jorge", "San Rafael Oriente", "El Tránsito"]
+            "distritos": [
+              {"nombre": "Conchagua"},
+              {"nombre": "El Carmen"},
+              {"nombre": "Intipucá"},
+              {"nombre": "La Unión"},
+              {"nombre": "Meanguera del Golfo"},
+              {"nombre": "San Alejo"},
+              {"nombre": "Yayantique"},
+              {"nombre": "Yucuaiquín"}
+            ]
           }
         ]
       },
@@ -238,13 +277,281 @@
         "municipios": [
           {
             "nombre": "Morazán Norte",
-            "distritos": ["Arambala", "Cacaopera", "Corinto", "El Rosario", "Joateca", "Jocoaitique", "Meanguera", "Perquín", "San Fernando", "San Isidro", "Torola"]
+            "distritos": [
+              {"nombre": "Arambala"},
+              {"nombre": "Cacaopera"},
+              {"nombre": "Corinto"},
+              {"nombre": "El Rosario"},
+              {"nombre": "Joateca"},
+              {"nombre": "Jocoaitique"},
+              {"nombre": "Meanguera"},
+              {"nombre": "Perquín"},
+              {"nombre": "San Fernando"},
+              {"nombre": "San Isidro"},
+              {"nombre": "Torola"}
+            ]
           },
           {
             "nombre": "Morazán Sur",
-            "distritos": ["Chilanga", "Delicias de Concepción", "El Divisadero", "Gualococti", "Guatajiagua", "Jocoro", "Lolotiquillo", "Osicala", "San Carlos", "San Francisco Gotera", "San Simón", "Sensembra", "Sociedad", "Yamabal", "Yoloaiquín"]
+            "distritos": [
+              {"nombre": "Chilanga"},
+              {"nombre": "Delicias de Concepción"},
+              {"nombre": "El Divisadero"},
+              {"nombre": "Gualococti"},
+              {"nombre": "Guatajiagua"},
+              {"nombre": "Jocoro"},
+              {"nombre": "Lolotiquillo"},
+              {"nombre": "Osicala"},
+              {"nombre": "San Carlos"},
+              {"nombre": "San Francisco Gotera"},
+              {"nombre": "San Simón"},
+              {"nombre": "Sensembra"},
+              {"nombre": "Sociedad"},
+              {"nombre": "Yamabal"},
+              {"nombre": "Yoloaiquín"}
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "San Miguel",
+        "municipios": [
+          {
+            "nombre": "San Miguel Norte",
+            "distritos": [
+              {"nombre": "Ciudad Barrios"},
+              {"nombre": "Sesori"},
+              {"nombre": "Nuevo Edén de San Juan"},
+              {"nombre": "San Gerardo"},
+              {"nombre": "San Luis de La Reina"},
+              {"nombre": "Carolina"},
+              {"nombre": "San Antonio del Mosco"},
+              {"nombre": "Chapeltique"}
+            ]
+          },
+          {
+            "nombre": "San Miguel Centro",
+            "distritos": [
+              {"nombre": "San Miguel"},
+              {"nombre": "Comacarán"},
+              {"nombre": "Uluazapa"},
+              {"nombre": "Moncagua"},
+              {"nombre": "Quelepa"},
+              {"nombre": "Chirilagua"}
+            ]
+          },
+          {
+            "nombre": "San Miguel Oeste",
+            "distritos": [
+              {"nombre": "Chinameca"},
+              {"nombre": "Nueva Guadalupe"},
+              {"nombre": "Lolotique"},
+              {"nombre": "San Jorge"},
+              {"nombre": "San Rafael Oriente"},
+              {"nombre": "El Tránsito"}
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "San Salvador",
+        "municipios": [
+          {
+            "nombre": "San Salvador Norte",
+            "distritos": [
+              {"nombre": "Aguilares"},
+              {"nombre": "El Paisnal"},
+              {"nombre": "Guazapa"}
+            ]
+          },
+          {
+            "nombre": "San Salvador Oeste",
+            "distritos": [
+              {"nombre": "Apopa"},
+              {"nombre": "Nejapa"}
+            ]
+          },
+          {
+            "nombre": "San Salvador Este",
+            "distritos": [
+              {"nombre": "Ilopango"},
+              {"nombre": "San Martín"},
+              {"nombre": "Soyapango"},
+              {"nombre": "Tonacatepeque"}
+            ]
+          },
+          {
+            "nombre": "San Salvador Centro",
+            "distritos": [
+              {"nombre": "Ayutuxtepeque"},
+              {"nombre": "Mejicanos"},
+              {"nombre": "San Salvador"},
+              {"nombre": "Cuscatancingo"},
+              {"nombre": "Ciudad Delgado"}
+            ]
+          },
+          {
+            "nombre": "San Salvador Sur",
+            "distritos": [
+              {"nombre": "Panchimalco"},
+              {"nombre": "Rosario de Mora"},
+              {"nombre": "San Marcos"},
+              {"nombre": "Santo Tomás"},
+              {"nombre": "Santiago Texacuangos"}
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "San Vicente",
+        "municipios": [
+          {
+            "nombre": "San Vicente Norte",
+            "distritos": [
+              {"nombre": "Apastepeque"},
+              {"nombre": "Santa Clara"},
+              {"nombre": "San Ildefonso"},
+              {"nombre": "San Esteban Catarina"},
+              {"nombre": "San Sebastián"},
+              {"nombre": "San Lorenzo"},
+              {"nombre": "Santo Domingo"}
+            ]
+          },
+          {
+            "nombre": "San Vicente Sur",
+            "distritos": [
+              {"nombre": "San Vicente"},
+              {"nombre": "Guadalupe"},
+              {"nombre": "Verapaz"},
+              {"nombre": "Tepetitán"},
+              {"nombre": "Tecoluca"},
+              {"nombre": "San Cayetano Istepeque"}
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Santa Ana",
+        "municipios": [
+          {
+            "nombre": "Santa Ana Norte",
+            "distritos": [
+              {"nombre": "Masahuat"},
+              {"nombre": "Metapán"},
+              {"nombre": "Santa Rosa Guachipilín"},
+              {"nombre": "Texistepeque"}
+            ]
+          },
+          {
+            "nombre": "Santa Ana Centro",
+            "distritos": [
+              {"nombre": "Santa Ana"}
+            ]
+          },
+          {
+            "nombre": "Santa Ana Este",
+            "distritos": [
+              {"nombre": "Coatepeque"},
+              {"nombre": "El Congo"}
+            ]
+          },
+          {
+            "nombre": "Santa Ana Oeste",
+            "distritos": [
+              {"nombre": "Candelaria de la Frontera"},
+              {"nombre": "Chalchuapa"},
+              {"nombre": "El Porvenir"},
+              {"nombre": "San Antonio Pajonal"},
+              {"nombre": "San Sebastián Salitrillo"},
+              {"nombre": "Santiago de La Frontera"}
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Sonsonate",
+        "municipios": [
+          {
+            "nombre": "Sonsonate Norte",
+            "distritos": [
+              {"nombre": "Juayúa"},
+              {"nombre": "Nahuizalco"},
+              {"nombre": "Salcoatitán"},
+              {"nombre": "Santa Catarina Masahuat"}
+            ]
+          },
+          {
+            "nombre": "Sonsonate Centro",
+            "distritos": [
+              {"nombre": "Sonsonate"},
+              {"nombre": "Sonzacate"},
+              {"nombre": "Nahulingo"},
+              {"nombre": "San Antonio del Monte"},
+              {"nombre": "Santo Domingo de Guzmán"}
+            ]
+          },
+          {
+            "nombre": "Sonsonate Este",
+            "distritos": [
+              {"nombre": "Izalco"},
+              {"nombre": "Armenia"},
+              {"nombre": "Caluco"},
+              {"nombre": "San Julián"},
+              {"nombre": "Cuisnahuat"},
+              {"nombre": "Santa Isabel Ishuatán"}
+            ]
+          },
+          {
+            "nombre": "Sonsonate Oeste",
+            "distritos": [
+              {"nombre": "Acajutla"}
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Usulután",
+        "municipios": [
+          {
+            "nombre": "Usulután Norte",
+            "distritos": [
+              {"nombre": "Santiago de María"},
+              {"nombre": "Alegría"},
+              {"nombre": "Berlín"},
+              {"nombre": "Mercedes Umaña"},
+              {"nombre": "Jucuapa"},
+              {"nombre": "El Triunfo"},
+              {"nombre": "Estanzuelas"},
+              {"nombre": "San Buenaventura"},
+              {"nombre": "Nueva Granada"}
+            ]
+          },
+          {
+            "nombre": "Usulután Este",
+            "distritos": [
+              {"nombre": "Usulután"},
+              {"nombre": "Jucuarán"},
+              {"nombre": "San Dionisio"},
+              {"nombre": "Concepción Batres"},
+              {"nombre": "Santa María"},
+              {"nombre": "Ozatlán"},
+              {"nombre": "Tecapán"},
+              {"nombre": "Santa Elena"},
+              {"nombre": "California"},
+              {"nombre": "Ereguayquín"}
+            ]
+          },
+          {
+            "nombre": "Usulután Oeste",
+            "distritos": [
+              {"nombre": "Jiquilisco"},
+              {"nombre": "Puerto El Triunfo"},
+              {"nombre": "San Agustín"},
+              {"nombre": "San Francisco Javier"}
+            ]
           }
         ]
       }
     ]
-  }  
+  }
+  
