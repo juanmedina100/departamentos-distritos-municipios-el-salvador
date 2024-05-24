@@ -1,0 +1,38 @@
+{
+    "departamentos": [
+      {
+        "nombre": "Ahuachapán",
+        "distritos": [
+          {
+            "nombre": "Norte",
+            "municipios": ["Atiquizaya", "El Refugio", "San Lorenzo", "Turín"]
+          },
+          {
+            "nombre": "Centro",
+            "municipios": ["Ahuachapán", "Apaneca", "Concepción de Ataco", "Tacuba"]
+          },
+          {
+            "nombre": "Sur",
+            "municipios": ["Guaymango", "Jujutla", "San Francisco Menéndez", "San Pedro Puxtla"]
+          }
+        ]
+      },
+      {
+        "nombre": "Cabañas",
+        "distritos": [
+          {
+            "nombre": "Este",
+            "municipios": ["Guacotecti", "San Isidro", "Sensuntepeque", "Victoria"]
+          }
+        ]
+      },
+      {
+        "nombre": "Chalatenango",
+        "distritos": [
+          // ... (otros distritos y municipios)
+        ]
+      },
+      // ... (otros departamentos)
+    ]
+  }
+  
