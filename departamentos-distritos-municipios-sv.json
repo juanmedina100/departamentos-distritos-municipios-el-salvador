@@ -1,6 +1,7 @@
 {
     "departamentos": [
       {
+        "idMDepa": 1,
         "nombre": "Ahuachapán",
         "municipios": [
           {
@@ -33,6 +34,7 @@
         ]
       },
       {
+        "idMDepa": 2,
         "nombre": "Cabañas",
         "municipios": [
           {
@@ -57,6 +59,7 @@
         ]
       },
       {
+        "idMDepa": 3,
         "nombre": "Chalatenango",
         "municipios": [
           {
@@ -110,6 +113,7 @@
         ]
       },
       {
+        "idMDepa": 4,
         "nombre": "Cuscatlán",
         "municipios": [
           {
@@ -141,6 +145,7 @@
         ]
       },
       {
+        "idMDepa": 5,
         "nombre": "La Libertad",
         "municipios": [
           {
@@ -198,6 +203,7 @@
         ]
       },
       {
+        "idMDepa": 6,
         "nombre": "La Paz",
         "municipios": [
           {
@@ -240,6 +246,7 @@
         ]
       },
       {
+        "idMDepa": 7,
         "nombre": "La Unión",
         "municipios": [
           {
@@ -273,6 +280,7 @@
         ]
       },
       {
+        "idMDepa": 8,
         "nombre": "Morazán",
         "municipios": [
           {
@@ -314,6 +322,7 @@
         ]
       },
       {
+        "idMDepa": 9,
         "nombre": "San Miguel",
         "municipios": [
           {
@@ -354,6 +363,7 @@
         ]
       },
       {
+        "idMDepa": 10,
         "nombre": "San Salvador",
         "municipios": [
           {
@@ -403,6 +413,7 @@
         ]
       },
       {
+        "idMDepa": 11,
         "nombre": "San Vicente",
         "municipios": [
           {
@@ -431,6 +442,7 @@
         ]
       },
       {
+        "idMDepa": 12,
         "nombre": "Santa Ana",
         "municipios": [
           {
@@ -469,6 +481,7 @@
         ]
       },
       {
+        "idMDepa": 13,
         "nombre": "Sonsonate",
         "municipios": [
           {
@@ -510,6 +523,7 @@
         ]
       },
       {
+        "idMDepa": 14,
         "nombre": "Usulután",
         "municipios": [
           {
