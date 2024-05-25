@@ -24,6 +24,14 @@ Imagenes de referecia con aplicación consumiendo la API desde aplicación movil
 Consumo de la AIP desde kotlin usando compose e inyeccion de dependecias con Dagger-Hilt, con arquitectura MVVM y Retrofit
 
 
+## Carga de imagenes desde la web sincronizandolas con el id del departamento
+
+### Resultados:
+
+![img3.jpg](imagenes%2Fimg4.jpg)
+
+
+![img3.jpg](imagenes%2Fimg5.jpg)
 
 
 
