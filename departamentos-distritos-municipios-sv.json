@@ -1,7 +1,7 @@
 {
     "departamentos": [
       {
-        "idMDepa": 1,
+        "idMDepa": "d1",
         "nombre": "Ahuachapán",
         "municipios": [
           {
@@ -34,7 +34,7 @@
         ]
       },
       {
-        "idMDepa": 2,
+        "idMDepa": "d2",
         "nombre": "Cabañas",
         "municipios": [
           {
@@ -59,7 +59,7 @@
         ]
       },
       {
-        "idMDepa": 3,
+        "idMDepa": "d3",
         "nombre": "Chalatenango",
         "municipios": [
           {
@@ -113,7 +113,7 @@
         ]
       },
       {
-        "idMDepa": 4,
+        "idMDepa": "d4",
         "nombre": "Cuscatlán",
         "municipios": [
           {
@@ -145,7 +145,7 @@
         ]
       },
       {
-        "idMDepa": 5,
+        "idMDepa": "d5",
         "nombre": "La Libertad",
         "municipios": [
           {
@@ -203,7 +203,7 @@
         ]
       },
       {
-        "idMDepa": 6,
+        "idMDepa": "d6",
         "nombre": "La Paz",
         "municipios": [
           {
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "idMDepa": 7,
+        "idMDepa": "d7",
         "nombre": "La Unión",
         "municipios": [
           {
@@ -280,7 +280,7 @@
         ]
       },
       {
-        "idMDepa": 8,
+        "idMDepa": "d8",
         "nombre": "Morazán",
         "municipios": [
           {
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "idMDepa": 9,
+        "idMDepa": "d9",
         "nombre": "San Miguel",
         "municipios": [
           {
@@ -363,7 +363,7 @@
         ]
       },
       {
-        "idMDepa": 10,
+        "idMDepa": "d10",
         "nombre": "San Salvador",
         "municipios": [
           {
@@ -413,7 +413,7 @@
         ]
       },
       {
-        "idMDepa": 11,
+        "idMDepa": "d11",
         "nombre": "San Vicente",
         "municipios": [
           {
@@ -442,7 +442,7 @@
         ]
       },
       {
-        "idMDepa": 12,
+        "idMDepa": "d12",
         "nombre": "Santa Ana",
         "municipios": [
           {
@@ -481,7 +481,7 @@
         ]
       },
       {
-        "idMDepa": 13,
+        "idMDepa": "d13",
         "nombre": "Sonsonate",
         "municipios": [
           {
@@ -523,7 +523,7 @@
         ]
       },
       {
-        "idMDepa": 14,
+        "idMDepa": "d14",
         "nombre": "Usulután",
         "municipios": [
           {
